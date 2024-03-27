@@ -1,8 +1,5 @@
 /*
  * Program Name: PlatinumMember.java
- * Student Name: Anneth Sivakumar
- * Student Number: 20320973
- * Date: August 08, 2023
  * Description: This class represents a Platinum member in a membership system.
  * It extends the abstract class Member and provides additional functionality specific to Platinum members.
  */
