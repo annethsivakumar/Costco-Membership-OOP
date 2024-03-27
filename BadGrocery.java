@@ -1,8 +1,5 @@
 /*
  * Program Name: BadGrocery.java
- * Student Name: Anneth Sivakumar
- * Student Number: 20320973
- * Date: August 08, 2023
  * Description: This class represents a custom exception, used to handle errors that may occur with the Costco orders.
  */
 public class BadGrocery extends Exception{
