@@ -1,8 +1,5 @@
 /*
  * Program Name: Member.java
- * Student Name: Anneth Sivakumar
- * Student Number: 20320973
- * Date: August 08, 2023
  * Description: An abstract class representing a member in a membership system.
  */
 public abstract class Member {
