@@ -1,8 +1,5 @@
 /*
  * Program Name: OnlineOrder.java
- * Student Name: Anneth Sivakumar
- * Student Number: 20320973
- * Date: August 08, 2023
  * Description: This class represents an online order made by a member in a grocery store's online system.
  * It contains information about the member who placed the order, the total cost of the order, 
  * the number of items in the order, and the list of grocery items in the member's basket.
